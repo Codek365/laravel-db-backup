@@ -1,5 +1,5 @@
 {
-    "name": "wladmonax/laravel-db-backup",
+    "name": "codek365/laravel-db-backup",
     "description": "Backup and restore databases. Encrypting dumps. Save dumps to db and uploading to Dropbox. Restore dump from Dropbox.",
     "license": "MIT",
     "authors": [
